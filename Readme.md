@@ -5,7 +5,7 @@ fermentation-units is a javascript units conversion library for use with brewing
 
 Follow BrewSession on Twitter: <a href="https://twitter.com/#!/search/brewsession">@BrewSession</a>.
 
-fermentation-units is a fork of JS-quantities, which itself is a "port of Kevin Olbrich's library Ruby Units (http://ruby-units.rubyforge.org/ruby-units). As described by its author, the library aims to simplify the handling of units for scientific calculations involving quantities."
+fermentation-units is a fork of JS-quantities, which itself is a "port of Kevin Olbrich's library <a href="http://ruby-units.rubyforge.org/ruby-units">Ruby Units</a>. As described by its author, the library aims to simplify the handling of units for scientific calculations involving quantities."
 
 We have removed (most) units that do not have anything to do with brewing or wine making and added units that are specific to these fields.
 
